@@ -42,7 +42,7 @@ I am an engineer under construction at **Polytech Paris-Saclay** who doesn't wai
 ---
 
 ### 🌐 Find Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georges-hanna) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georges-hanna11) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgestamer404@gmail.com)
 
 
