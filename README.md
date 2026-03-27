@@ -1,44 +1,43 @@
-# Hi there 👋 I'm Georges Hanna
+    # Hi there 👋 I'm Georges Hanna
 
-**Computer Science Engineering Student | [cite_start]AI & Software Development** Orsay, France 📍 [cite: 2]
+**Computer Science Engineering Student | AI & Software Development** Orsay, France 📍 
 
-[cite_start]I am an engineer in training at **Polytech Paris-Saclay** who doesn't wait for coursework to start building[cite: 5, 25]. [cite_start]I specialize in end-to-end AI systems, high-scale web scraping, and robust software architecture[cite: 5, 6].
+I am an engineer under construction at **Polytech Paris-Saclay** who doesn't wait for coursework to start building. I specialize in end-to-end AI systems, high-scale web scraping, and robust software architecture.
 
 ---
 
 ### 🚀 Current Focus
-* 🎓 **Diplôme d'Ingénieur Informatique** at Polytech Paris-Saclay (2024–Present)[cite: 25].
-* [cite_start]🤖 **AIUSIO**: Developing an automated LLM pipeline for job applications using FastAPI and Claude API[cite: 15, 16].
-* [cite_start]🔍 Seeking an **AI / Software Development Apprenticeship** starting September 2026[cite: 3].
+* 🎓 **Diplôme d'Ingénieur Informatique** at Polytech Paris-Saclay (2024–Present).
+* 🔍 Seeking an **AI / Software Development Apprenticeship** starting September 2026.
 
----
+--
 
 ### 🛠️ Technical Arsenal
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI & LLM** | [cite_start]Anthropic Claude API, AsyncAnthropic, Prompt Engineering, TF-IDF [cite: 33] |
-| **Languages** | [cite_start]**Python (Advanced)**, **C++ (Advanced)**, SQL, PHP, JavaScript [cite: 33] |
-| **Frameworks** | [cite_start]FastAPI, Playwright, asyncio, Git/GitHub, Postman, SQLite [cite: 34] |
-| **Specialized** | [cite_start]IoT, PID Control, Software QA (ISTQB Certified) [cite: 35, 37] |
+| **AI & LLM** | Anthropic Claude API, AsyncAnthropic, Prompt Engineering, TF-IDF |
+| **Languages** | **Python (Advanced)**, **C++ (Advanced)**, SQL, PHP, JavaScript |
+| **Frameworks** | FastAPI, Playwright, asyncio, Git/GitHub, Postman, SQLite |
+| **Specialized** | IoT, PID Control, Software QA (ISTQB Certified) |
 
 ---
 
 ### 🧠 Featured Project: AIUSIO
-> [cite_start]*A full-stack AI automation system designed, coded, and deployed solo.* [cite: 5]
+> *A full-stack AI automation system designed, coded, and deployed solo.*
 
-* [cite_start]**Pipeline:** CV Ingestion (PDF/DOCX) → Skill Extraction → Targeted rewriting via Claude → ATS Scoring[cite: 16].
-* **Innovation:** 100% elimination of manual copy-pasting through real-time scraping of Indeed & LinkedIn[cite: 17].
-* [cite_start]**Technical Wins:** Solved complex asyncio loops, anti-scraping protections, and robust JSON parsing[cite: 18].
+* **Pipeline:** CV Ingestion (PDF/DOCX) → Skill Extraction → Targeted rewriting via Claude → ATS Scoring.
+* **Innovation:** 100% elimination of manual copy-pasting through real-time scraping of Indeed & LinkedIn.
+* **Technical Wins:** Solved complex asyncio loops, anti-scraping protections, and robust JSON parsing.
 
 ---
 
 ### 📜 Certifications & Achievements
-* [cite_start]🎖️ **ISTQB Foundation Level** - Software Quality Assurance[cite: 37].
-* 🎓 **Gemini Certified Student** - Google[cite: 40].
-* [cite_start]🐍 **Web Scraping with Python** - Duke University[cite: 39].
-* [cite_start]💻 **Introduction to C++** - EPFL[cite: 38].
-* 🏆 **Baccalauréat Scientifique** - Mention Très Bien[cite: 26].
+* 🎖️ **ISTQB Foundation Level** - Software Quality Assurance.
+* 🎓 **Gemini Certified Student** - Google.
+* 🐍 **Web Scraping with Python** - Duke University.
+* 💻 **Introduction to C++** - EPFL.
+* 🏆 **Baccalauréat Scientifique** - Mention Très Bien.
 
 ---
 
