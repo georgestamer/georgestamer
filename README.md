@@ -10,7 +10,7 @@ I am an engineer under construction at **Polytech Paris-Saclay** who doesn't wai
 * 🎓 **Diplôme d'Ingénieur Informatique** at Polytech Paris-Saclay (2024–Present).
 * 🔍 Seeking an **AI / Software Development Apprenticeship** starting September 2026.
 
---
+---
 
 ### 🛠️ Technical Arsenal
 
