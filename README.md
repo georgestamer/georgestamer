@@ -45,10 +45,5 @@ I am an engineer under construction at **Polytech Paris-Saclay** who doesn't wai
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georges-hanna) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgestamer404@gmail.com)
 
----
-
-### 📊 GitHub Stats
-![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=georges-hanna&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georges-hanna&layout=compact&theme=tokyonight)
 
 *"Curiosity leads to code, code leads to impact."*
