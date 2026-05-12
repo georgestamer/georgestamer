@@ -1,4 +1,4 @@
-    # Hi there 👋 I'm Georges Hanna
+# Hi there 👋 I'm Georges Hanna
 
 **Computer Science Engineering Student | AI & Software Development** Orsay, France 📍 
 
